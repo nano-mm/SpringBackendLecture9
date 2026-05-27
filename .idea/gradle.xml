@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/java-executor-future-demo" />
+            <option value="$PROJECT_DIR$/spring-boot-jar-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Head16_SpringStableHigh" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Head16_SpringStableHigh" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootProjectStructureExample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringBootProjectStructureExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringDataJpaExample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringDataJpaExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurity" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecuritySessionBasedArchi" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecuritySessionBasedArchi" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecuritySessionManagementCore" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecuritySessionManagementCore" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurityTokenJWT" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurityTokenJWT" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurityTokenJWT2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurityTokenJWT2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringTDD" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringTDD" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/coffeeorder" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/coffeeorder" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java-thread-basic-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java-thread-basic-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-security-advanced-session" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-security-advanced-session" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-security-jwt-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-security-jwt-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
