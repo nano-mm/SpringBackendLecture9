@@ -5,7 +5,6 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -23,6 +22,14 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringAsyncExceptionDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringAsyncExceptionDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/SpringBootProjectStructureExample" />
         <option name="modules">
           <set>
@@ -35,6 +42,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/SpringDataJpaExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringEventDemo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringEventDemo" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -99,6 +114,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/java-thread-basic-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-async-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-async-demo" />
           </set>
         </option>
       </GradleProjectSettings>
